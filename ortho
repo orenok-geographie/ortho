@@ -1,11 +1,5 @@
 [
-    {
-        "definition": "Afghanistan",
-    
-    "word": "Kabul"
-},
-{
-"definition": "Åland Islands",
-"word": "Mariehamn"
+    { definition: 'abc', word: 'def' },
+{ definition: 'hyj', word: 'xyz' }
 }
 ]
